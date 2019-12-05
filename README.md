@@ -5,6 +5,6 @@ These projects contain assignments from my File Structures and Databases (CPSC 3
 The school assignments are:
 Creating and filling up a company database
 An Art Show Database
-Using C++ to print records from the Database, access any record based on attribute values, and sort a report.
+Using C++ to print records from the Database, access any record based on attribute values, and to sort a report
 
 
