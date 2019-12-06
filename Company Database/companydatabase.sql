@@ -1,4 +1,7 @@
-CREATE DATABASE COMPANY;
+/*creating the database*/
+CREATE DATABASE COMPANY;          
+
+/*creating tables for the company database*/
 
 CREATE TABLE EMPLOYEE
 (
@@ -65,3 +68,13 @@ Relationship VARCHAR(8),
 primary key (Essn, Dependent_name),
 foreign key (Ess) references EMPLOYEE (Ssn)
 );
+
+/*providing data for each table*/
+INSERT INTO department VALUES ('Headquarters', '1', '888665555', '1981-06-19'), ('Administration', '4', '987654321', '1995-01-01'), ('Research', '5', '333445555', '1988-05-22')
+
+
+
+
+
+
+
