@@ -8,6 +8,6 @@ These projects contain assignments from my File Structures and Databases (CPSC 3
 
 2. An Art Show Database
 
-3. Using C++ to print records from the Database, access any record based on attribute values, and to sort a report
+
 
 
