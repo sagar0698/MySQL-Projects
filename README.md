@@ -6,7 +6,7 @@ These projects contain assignments from my File Structures and Databases (CPSC 3
 
 1. Creating and filling up a company database     
 
-2. An Art Show Database
+
 
 
 
